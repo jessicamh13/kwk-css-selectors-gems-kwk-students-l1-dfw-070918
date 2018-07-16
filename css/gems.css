@@ -13,7 +13,7 @@
 /*selector for emerald goes here */  
 #emerald {
   position: absolute;
-  z-index: 2;
+  z-index: 1;
   top: 350px;
   left: 369px;
 }
